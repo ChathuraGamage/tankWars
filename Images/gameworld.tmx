@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="35" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="terrain2" tilewidth="32" tileheight="32">
+  <image source="terrain2.jpg" width="1600" height="1200"/>
+ </tileset>
+ <tileset firstgid="1851" name="green_grass" tilewidth="32" tileheight="32">
+  <image source="green_grass.jpg" width="1280" height="960"/>
+ </tileset>
+ <tileset firstgid="3051" name="colour-grid_large" tilewidth="32" tileheight="32">
+  <image source="colour-grid_large.jpg" width="600" height="600"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="35" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1vNxcCwmoqYn5F8TE13wNzixEk8HnXLqFtG3TLqllG3jLpl1C2jbhl1y+B1C7kYAK61coHwCgAA
+  </data>
+ </layer>
+</map>
